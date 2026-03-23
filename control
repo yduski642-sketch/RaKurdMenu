@@ -1,0 +1,7 @@
+Package: com.rakurd.menu
+Name: RaKurdMenu
+Version: 1.0
+Architecture: iphoneos-arm
+Author: Yousif Duski
+Section: Tweaks
+Description: Custom Menu for RA KURD

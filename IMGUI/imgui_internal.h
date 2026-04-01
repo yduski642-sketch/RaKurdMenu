@@ -1,0 +1,8 @@
+#pragma once
+#include "imgui.h"
+#include <stdio.h>
+#include <stdlib.h>
+
+namespace ImGui {
+    // Internal functions
+}
